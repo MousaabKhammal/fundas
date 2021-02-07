@@ -1,0 +1,26 @@
+{
+  "fundas": [
+    {
+      "-codmodelo": "ip7",
+      "nombre": "Iphone 7",
+      "tipos": [
+        {
+          "-codtipo": "ip7fagt",
+          "descripcion": "Funda anti golpe PC + TPU",
+          "precio": "10.00 €",
+          "id": "2456456",
+          "imagen": "documentos/pic001.jpg"
+        },
+        {
+          "-codtipo": "fsTPU",
+          "descripcion": "Funda Silicona TPU",
+          "precio": "8.00 €",
+          "id": "4565345",
+          "imagen": "documentos/pic002.jpg"
+        }
+          }
+        ]
+      }
+    }
+  ]
+}
